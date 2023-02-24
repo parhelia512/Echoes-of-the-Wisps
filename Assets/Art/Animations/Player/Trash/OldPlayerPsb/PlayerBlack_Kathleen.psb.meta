@@ -1,0 +1,1117 @@
+fileFormatVersion: 2
+guid: d25bfb55e41e6504898abbf205794817
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: HAIR STRAND
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1969
+      y: 4
+      width: 402
+      height: 528
+    spriteID: 2eb85a14b4891604a97d26b0d72b5ce3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -114, y: -2523}
+  - name: Ebene 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2052
+      width: 1174
+      height: 1238
+    spriteID: 9b3c5654f2ecfd747acef035c48f501e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1342, y: 472}
+  - name: BRAID
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1432
+      height: 2040
+    spriteID: 151e8db874e2bf2469233ecc4378dc5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -482, y: -251}
+  - name: SLEEVE FRONT
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1444
+      y: 3032
+      width: 440
+      height: 865
+    spriteID: 00082c222819cc64f85ccb14aa36c67e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -204, y: 2294}
+  - name: HAND FRONT
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1186
+      y: 2821
+      width: 156
+      height: 198
+    spriteID: 0e6099c21af775d43a80fa2448445755
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -652, y: 2154}
+  - name: CARDIGAN FR
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1444
+      y: 927
+      width: 416
+      height: 1079
+    spriteID: fbb45c58fe436f242a17cfdd4660da00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -267, y: 374}
+  - name: SKIRT
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 759
+      y: 3298
+      width: 574
+      height: 476
+    spriteID: e070532a922547f46b318b4ac008c34b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -972, y: 3008}
+  - name: CARDIGAN BACK
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1444
+      y: 2014
+      width: 398
+      height: 1010
+    spriteID: ebd63b31253493643b6cf7f47bedf41c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -462, y: 1428}
+  - name: BODY
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1444
+      y: 4
+      width: 517
+      height: 915
+    spriteID: 0860571500fda6c43baa4f52e111bb6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -294, y: -719}
+  - name: SLEEVE BACK
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3298
+      width: 747
+      height: 559
+    spriteID: 81b8a84057561ac49a0b944149ffb954
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2016, y: 2287}
+  - name: HAND BACK
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1186
+      y: 3027
+      width: 212
+      height: 134
+    spriteID: eb2f24b302031ab4fbfeb69d769860d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1453, y: 1722}
+  - name: THIGH FRONT
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1969
+      y: 540
+      width: 311
+      height: 494
+    spriteID: 313e60dde3e21d9469a2d14b5a408873
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 161, y: 118}
+  - name: LOWER LEG FRONT
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1186
+      y: 2052
+      width: 202
+      height: 396
+    spriteID: e4afa75c0e09de84aa248577f1ad596b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -593, y: 1926}
+  - name: THIGH BACK
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1969
+      y: 1042
+      width: 289
+      height: 507
+    spriteID: f293bebefbde67c4d80a26d02d32f6a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 105, y: 631}
+  - name: LOWER LEG BACK
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1186
+      y: 2456
+      width: 158
+      height: 357
+    spriteID: 126d329a3b108cb46bd65024362ac515
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -687, y: 2299}
+  characterData:
+    bones:
+    - name: bone_1
+      guid: c7f6dc31414380e4a9e900a52e609164
+      position: {x: 299.7539, y: 557.4648, z: 0}
+      rotation: {x: 0, y: -0, z: -0.9956102, w: 0.09359726}
+      length: 389.44592
+      parentId: 15
+      color:
+        serializedVersion: 2
+        rgba: 4278190335
+    - name: bone_2
+      guid: c8274f632404ff54faad869afe55901a
+      position: {x: 389.44586, y: -0.00008358769, z: 0}
+      rotation: {x: 0, y: 0, z: 0.12946026, w: -0.99158466}
+      length: 131.71205
+      parentId: 0
+      color:
+        serializedVersion: 2
+        rgba: 4278255615
+    - name: bone_3
+      guid: 36b59629e09789d42986e372fb941ed5
+      position: {x: 162.5336, y: -0.000111821355, z: 0}
+      rotation: {x: 0, y: 0, z: -0.006293429, w: 0.9999802}
+      length: 155.22865
+      parentId: 28
+      color:
+        serializedVersion: 2
+        rgba: 4278255360
+    - name: bone_4
+      guid: 9237c051c937f744a9bf758833b13cb9
+      position: {x: 174.66309, y: -0.00009787902, z: 0}
+      rotation: {x: 0, y: 0, z: -0.0075367927, w: 0.9999716}
+      length: 131.23283
+      parentId: 27
+      color:
+        serializedVersion: 2
+        rgba: 4294967040
+    - name: bone_5
+      guid: 93343fd99038d194ebef01eb4f6d73f8
+      position: {x: 153.17885, y: -0.0001066615, z: 0}
+      rotation: {x: 0, y: 0, z: 0.0060594114, w: 0.99998164}
+      length: 103.79356
+      parentId: 29
+      color:
+        serializedVersion: 2
+        rgba: 4294901760
+    - name: bone_6
+      guid: f01d1fac9520a724384d434eb5cac4aa
+      position: {x: 110.661224, y: -0.00019442907, z: 0}
+      rotation: {x: 0, y: 0, z: 0.0053209225, w: 0.9999859}
+      length: 130.1796
+      parentId: 30
+      color:
+        serializedVersion: 2
+        rgba: 4294902015
+    - name: bone_7
+      guid: 3e2395f3327eae24a9596fe2bbbf3a69
+      position: {x: 96.15372, y: 0.0004763085, z: 0}
+      rotation: {x: 0, y: 0, z: -0.23414767, w: 0.97220105}
+      length: 84.294304
+      parentId: 31
+      color:
+        serializedVersion: 2
+        rgba: 4278223103
+    - name: bone_8
+      guid: ebdf39a0ed4134b4b852e9333e40ac75
+      position: {x: 93.1227, y: -0.000054684628, z: 0}
+      rotation: {x: 0, y: 0, z: -0.21622737, w: 0.97634304}
+      length: 111.91674
+      parentId: 32
+      color:
+        serializedVersion: 2
+        rgba: 4278255488
+    - name: bone_9
+      guid: 651d6a8dd8ec9a4488b025112dbecd2d
+      position: {x: 98.56593, y: 0.000032467044, z: 0}
+      rotation: {x: 0, y: 0, z: -0.28780642, w: 0.9576886}
+      length: 53.603645
+      parentId: 33
+      color:
+        serializedVersion: 2
+        rgba: 4286643968
+    - name: bone_10
+      guid: 4b2d1503027f497409700d1e803db762
+      position: {x: 79.674286, y: 0.000024921228, z: 0}
+      rotation: {x: 0, y: 0, z: 0.01585444, w: -0.99987435}
+      length: 79.88632
+      parentId: 34
+      color:
+        serializedVersion: 2
+        rgba: 4294934528
+    - name: bone_11
+      guid: b37c121e7959a0441801bd1e8be5d051
+      position: {x: 976.4754, y: -182.3442, z: 0}
+      rotation: {x: 0, y: 0, z: 0.20715062, w: 0.9783091}
+      length: 170.10338
+      parentId: 15
+      color:
+        serializedVersion: 2
+        rgba: 4294901888
+    - name: bone_12
+      guid: 3e02db68b7b15f64f9485922c0c719b2
+      position: {x: 170.10329, y: -0.00003556849, z: 0}
+      rotation: {x: 0, y: 0, z: 0.21553394, w: 0.97649634}
+      length: 191.27682
+      parentId: 10
+      color:
+        serializedVersion: 2
+        rgba: 4286578943
+    - name: bone_13
+      guid: fb38fd85417bac84eb91408a05371afc
+      position: {x: 191.27686, y: -0.00017960608, z: 0}
+      rotation: {x: 0, y: 0, z: 0.159159, w: 0.98725295}
+      length: 154.03564
+      parentId: 11
+      color:
+        serializedVersion: 2
+        rgba: 4278255615
+    - name: bone_14
+      guid: 8c2ca72f746991e4c9996eb94aa91cf2
+      position: {x: 154.03596, y: -0.00004468282, z: 0}
+      rotation: {x: 0, y: 0, z: 0.16510168, w: 0.9862766}
+      length: 119.207695
+      parentId: 12
+      color:
+        serializedVersion: 2
+        rgba: 4278255360
+    - name: bone_15
+      guid: bf85ec55f73e0d04196e7600cebcb208
+      position: {x: -94.395775, y: 6.8994627, z: 0}
+      rotation: {x: 0, y: -0, z: 0.9828062, w: 0.18464008}
+      length: 78.771996
+      parentId: 26
+      color:
+        serializedVersion: 2
+        rgba: 4294967040
+    - name: bone_16
+      guid: b59213523b8bb69459f3580075903b8c
+      position: {x: 78.77194, y: 0.00010757899, z: 0}
+      rotation: {x: 0, y: 0, z: -0.0090502305, w: 0.99995905}
+      length: 958.2743
+      parentId: 14
+      color:
+        serializedVersion: 2
+        rgba: 4294901760
+    - name: bone_17
+      guid: ccd4257e95f920f4cac724fefc3964d1
+      position: {x: 4.805373, y: 126.62968, z: 0}
+      rotation: {x: 0, y: 0, z: 0.5807304, w: 0.81409603}
+      length: 516.0969
+      parentId: 26
+      color:
+        serializedVersion: 2
+        rgba: 4294902015
+    - name: bone_18
+      guid: 4cfe52b81333e5749b0890bd69915e1f
+      position: {x: 203.4406, y: 688.49396, z: 0}
+      rotation: {x: 0, y: 0, z: 0.50558925, w: 0.8627743}
+      length: 142.10567
+      parentId: 26
+      color:
+        serializedVersion: 2
+        rgba: 4278190335
+    - name: bone_19
+      guid: af1afbfde8c1ff045b7051b17812a8a2
+      position: {x: -56.508507, y: -93.6066, z: 0}
+      rotation: {x: 0, y: 0, z: -0.07324365, w: 0.9973141}
+      length: 763.0448
+      parentId: 26
+      color:
+        serializedVersion: 2
+        rgba: 4278255488
+    - name: bone_20
+      guid: 15fd9f0707f66534e83997561400f4ab
+      position: {x: 723.7784, y: -201.18304, z: 0}
+      rotation: {x: 0, y: 0, z: -0.021387251, w: 0.9997713}
+      length: 95.007484
+      parentId: 26
+      color:
+        serializedVersion: 2
+        rgba: 4286643968
+    - name: bone_21
+      guid: 4ae03a61032c97149beff6208afd8b7b
+      position: {x: -53.93959, y: -62.336014, z: 0}
+      rotation: {x: 0, y: 0, z: -0.08913085, w: 0.99601996}
+      length: 981.1778
+      parentId: 26
+      color:
+        serializedVersion: 2
+        rgba: 4294934528
+    - name: bone_22
+      guid: 5570ecc4268cd0942873a8d2b387baf5
+      position: {x: -26.737333, y: 80.10402, z: 0}
+      rotation: {x: 0, y: 0, z: 0.054861724, w: 0.99849397}
+      length: 955.16595
+      parentId: 26
+      color:
+        serializedVersion: 2
+        rgba: 4294901888
+    - name: bone_23
+      guid: 3af6c66f052d3d548a2e48ed0d498fe4
+      position: {x: 715.616, y: -130.4455, z: 0}
+      rotation: {x: 0, y: 0, z: -0.13916415, w: 0.99026936}
+      length: 311.92972
+      parentId: 26
+      color:
+        serializedVersion: 2
+        rgba: 4286578943
+    - name: bone_24
+      guid: f36111853e0f4124898fc40f2ca9d07e
+      position: {x: 311.92978, y: 0.000035548954, z: 0}
+      rotation: {x: 0, y: 0, z: 0.1222061, w: 0.9925048}
+      length: 321.23312
+      parentId: 22
+      color:
+        serializedVersion: 2
+        rgba: 4278223103
+    - name: bone_25
+      guid: 8efd1c130af97654ea277381823d3bd3
+      position: {x: 759.2279, y: -28.084854, z: 0}
+      rotation: {x: 0, y: 0, z: -0.18340388, w: 0.98303765}
+      length: 314.9232
+      parentId: 26
+      color:
+        serializedVersion: 2
+        rgba: 4278255360
+    - name: bone_26
+      guid: e9f84a9eff672014298baf2dc35482e9
+      position: {x: 314.92316, y: 0.0000611158, z: 0}
+      rotation: {x: 0, y: 0, z: 0.13389511, w: 0.9909955}
+      length: 284.9156
+      parentId: 24
+      color:
+        serializedVersion: 2
+        rgba: 4294967040
+    - name: Body bone
+      guid: d0a982e03c18be6469ed40797acd1fef
+      position: {x: 1997.1685, y: 1526.453, z: 0}
+      rotation: {x: 0, y: 0, z: -0.6656432, w: 0.7462701}
+      length: 452.86572
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4294901760
+    - name: bone_27
+      guid: c45de1663dffdc445a9f148f58020272
+      position: {x: 155.22856, y: -0.000041350977, z: 0}
+      rotation: {x: 0, y: 0, z: -0, w: 1}
+      length: 174.66318
+      parentId: 2
+      color:
+        serializedVersion: 2
+        rgba: 4294902015
+    - name: bone_28
+      guid: e0ca8517ed9691b4f9402cc342489347
+      position: {x: 131.71211, y: -0.000028801653, z: 0}
+      rotation: {x: 0, y: 0, z: -0, w: 1}
+      length: 162.53365
+      parentId: 1
+      color:
+        serializedVersion: 2
+        rgba: 4278190335
+    - name: bone_29
+      guid: 678e69c3e4110464caa660430d12ac51
+      position: {x: 131.23282, y: 0.000023903733, z: 0}
+      rotation: {x: 0, y: 0, z: -0, w: 1}
+      length: 153.17883
+      parentId: 3
+      color:
+        serializedVersion: 2
+        rgba: 4278255615
+    - name: bone_30
+      guid: d26919649bfb80e4187f111b2598f6fa
+      position: {x: 103.79355, y: -0.000036007208, z: 0}
+      rotation: {x: 0, y: 0, z: -0, w: 1}
+      length: 110.66125
+      parentId: 4
+      color:
+        serializedVersion: 2
+        rgba: 4286643968
+    - name: bone_31
+      guid: 1a504c46946f50f4797dc405b56e35a8
+      position: {x: 130.1797, y: -0.00069146865, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      length: 96.15371
+      parentId: 5
+      color:
+        serializedVersion: 2
+        rgba: 4294934528
+    - name: bone_32
+      guid: b9bb16548bb079649829c33d8cee0b10
+      position: {x: 84.294266, y: -0.000037339254, z: 0}
+      rotation: {x: 0, y: 0, z: -0, w: 1}
+      length: 93.122665
+      parentId: 6
+      color:
+        serializedVersion: 2
+        rgba: 4294901888
+    - name: bone_33
+      guid: f27f148ae5e64e64aa0fec42019ed2f3
+      position: {x: 111.91677, y: 0.000007742181, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      length: 98.565926
+      parentId: 7
+      color:
+        serializedVersion: 2
+        rgba: 4286578943
+    - name: bone_34
+      guid: 54119102ba01b8a4b814ce80600f79d5
+      position: {x: 53.603626, y: -0.0000073234096, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      length: 79.67429
+      parentId: 8
+      color:
+        serializedVersion: 2
+        rgba: 4278223103
+    parts:
+    - spritePosition:
+        x: 2083
+        y: 2527
+        width: 402
+        height: 528
+      spriteId: 900a52aca0d3f9a49b35e466537b0cd8
+      bones: 0d0000000c0000000b0000000a000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1346
+        y: 1580
+        width: 1174
+        height: 1238
+      spriteId: 136193eb22d14c546802d79d792e37b7
+      bones: 0e0000000f000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 486
+        y: 255
+        width: 1432
+        height: 2040
+      spriteId: 9d42c8cd3d66e1f459a3ab0487f795e4
+      bones: 0800000007000000060000000500000004000000030000000200000000000000010000000900000012000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1648
+        y: 738
+        width: 440
+        height: 865
+      spriteId: e0683c9d11fa93c4aa338e37c109d0ee
+      bones: 12000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1838
+        y: 667
+        width: 156
+        height: 198
+      spriteId: 60a58fc5ee25ec542b134371d40ee087
+      bones: 13000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1711
+        y: 553
+        width: 416
+        height: 1079
+      spriteId: 653504dd758ad704d8f48eaff8bada98
+      bones: 1400000017000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1731
+        y: 290
+        width: 574
+        height: 476
+      spriteId: 4b1c69a7bd275d54f9dbdbcdec2d8f29
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1906
+        y: 586
+        width: 398
+        height: 1010
+      spriteId: cbb892a23dfe95845a2fef4d838e6678
+      bones: 15000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1738
+        y: 723
+        width: 517
+        height: 915
+      spriteId: 5f7d235ec1382354e8a37e4aa8eee3c9
+      bones: 
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 2020
+        y: 1011
+        width: 747
+        height: 559
+      spriteId: 913ff03a3453b0e439877664234ed6b3
+      bones: 10000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 2639
+        y: 1305
+        width: 212
+        height: 134
+      spriteId: 9b358bfbcee5a254eaa40baf10b20ae5
+      bones: 1100000010000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1808
+        y: 422
+        width: 311
+        height: 494
+      spriteId: 25c6175dcfbd65346b55a29fcbb5b4a4
+      bones: 16000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1779
+        y: 126
+        width: 202
+        height: 396
+      spriteId: 6a1cbac1ca02c48439f500c03f90c6ff
+      bones: 17000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1864
+        y: 411
+        width: 289
+        height: 507
+      spriteId: 7336c5446dd98ef4d916c26cbec523e2
+      bones: 18000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1873
+        y: 157
+        width: 158
+        height: 357
+      spriteId: 12db3efc68c802b4893bbab901ebd423
+      bones: 19000000
+      parentGroup: 0
+      order: 0
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: HEAD
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: b48070e7916b60d40a95c44f7a3f7fbb
+    layerID: 30
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: HAIR STRAND
+    spriteName: HAIR STRAND
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2eb85a14b4891604a97d26b0d72b5ce3
+    layerID: 29
+    mosaicPosition: {x: 1969, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ebene 1
+    spriteName: Ebene 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9b3c5654f2ecfd747acef035c48f501e
+    layerID: 28
+    mosaicPosition: {x: 4, y: 2052}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: BRAID
+    spriteName: BRAID
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 151e8db874e2bf2469233ecc4378dc5c
+    layerID: 27
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ARM FRONT
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 764eff8f0062f3942ae4facf093026b0
+    layerID: 25
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SLEEVE FRONT
+    spriteName: SLEEVE FRONT
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 00082c222819cc64f85ccb14aa36c67e
+    layerID: 24
+    mosaicPosition: {x: 1444, y: 3032}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: HAND FRONT
+    spriteName: HAND FRONT
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 0e6099c21af775d43a80fa2448445755
+    layerID: 23
+    mosaicPosition: {x: 1186, y: 2821}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CLOTHES
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: bb04c7d05af13f140948227f5a0ea45f
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: CARDIGAN FR
+    spriteName: CARDIGAN FR
+    isGroup: 0
+    parentIndex: 7
+    spriteID: fbb45c58fe436f242a17cfdd4660da00
+    layerID: 20
+    mosaicPosition: {x: 1444, y: 927}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: SKIRT
+    spriteName: SKIRT
+    isGroup: 0
+    parentIndex: 7
+    spriteID: e070532a922547f46b318b4ac008c34b
+    layerID: 19
+    mosaicPosition: {x: 759, y: 3298}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: CARDIGAN BACK
+    spriteName: CARDIGAN BACK
+    isGroup: 0
+    parentIndex: 7
+    spriteID: ebd63b31253493643b6cf7f47bedf41c
+    layerID: 18
+    mosaicPosition: {x: 1444, y: 2014}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: BODY
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 09fe1e7ce2bc7e541b4c9ceb215bc51c
+    layerID: 16
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: BODY
+    spriteName: BODY
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 0860571500fda6c43baa4f52e111bb6b
+    layerID: 15
+    mosaicPosition: {x: 1444, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ARM BACK
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 1f6e5eda42573844c8c3b81b95dffb2a
+    layerID: 13
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SLEEVE BACK
+    spriteName: SLEEVE BACK
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 81b8a84057561ac49a0b944149ffb954
+    layerID: 12
+    mosaicPosition: {x: 4, y: 3298}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: HAND BACK
+    spriteName: HAND BACK
+    isGroup: 0
+    parentIndex: 13
+    spriteID: eb2f24b302031ab4fbfeb69d769860d3
+    layerID: 11
+    mosaicPosition: {x: 1186, y: 3027}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LEG FRONT
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 144ecf5c0f20f704988f58ee376d0754
+    layerID: 9
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: THIGH FRONT
+    spriteName: THIGH FRONT
+    isGroup: 0
+    parentIndex: 16
+    spriteID: 313e60dde3e21d9469a2d14b5a408873
+    layerID: 8
+    mosaicPosition: {x: 1969, y: 540}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LOWER LEG FRONT
+    spriteName: LOWER LEG FRONT
+    isGroup: 0
+    parentIndex: 16
+    spriteID: e4afa75c0e09de84aa248577f1ad596b
+    layerID: 7
+    mosaicPosition: {x: 1186, y: 2052}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LEG BACK
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 594938c817c71704a875683648f9f4e6
+    layerID: 5
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: THIGH BACK
+    spriteName: THIGH BACK
+    isGroup: 0
+    parentIndex: 19
+    spriteID: f293bebefbde67c4d80a26d02d32f6a2
+    layerID: 4
+    mosaicPosition: {x: 1969, y: 1042}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LOWER LEG BACK
+    spriteName: LOWER LEG BACK
+    isGroup: 0
+    parentIndex: 19
+    spriteID: 126d329a3b108cb46bd65024362ac515
+    layerID: 3
+    mosaicPosition: {x: 1186, y: 2456}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

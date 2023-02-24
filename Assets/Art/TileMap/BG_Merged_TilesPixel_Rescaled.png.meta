@@ -1,0 +1,6128 @@
+fileFormatVersion: 2
+guid: a8037b9379521d54d894c064dea51011
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270f3992bc62ce146838c85521b96cca
+      internalID: -1690978787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f187d6ecb5c5eb4c943e6ff2c398bc9
+      internalID: 1055022229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47eb7c5a15b2184e8605d4451e3a1b3
+      internalID: -514052459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29155f4a4142274293728971b86554d
+      internalID: -99411763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7976c3f3007934587c65774d00acce
+      internalID: 788267782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20361ae03bb9cf6498aaad3bb8aba6a7
+      internalID: 726211687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c531b45f6efe7b945be20f2671e1507a
+      internalID: -1016859492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a120a5ce99780e4f820555c07a3e1fa
+      internalID: 115366723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cc6bacf09d58b4baf28524fec2d98b
+      internalID: 1064603416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da46a300f0073aa44a981878ef356921
+      internalID: 484860380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870d252c424e1e24681bf4a5f5626b19
+      internalID: -723691939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a5c3e202a1764ead11eed2aa2a27e
+      internalID: 1913636942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7672c26258ebbbc48852e96a6fbd7da0
+      internalID: -1799868128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_13
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8d18f7bc384c547a87f403b663859a
+      internalID: 1382751554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_14
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73e197c9234b8f488acc8206b2f0bb9
+      internalID: 1804566713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 595
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8683e6cc9828094691abe5819a32e5f
+      internalID: 813574672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62af9e9c29a5f404bbaa47677e08918f
+      internalID: 211370988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b65f5e41154524286a7b2aa17cd72f
+      internalID: -947934195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80c620b6d3d2694990ff1632f9bda58
+      internalID: -316023955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898846354ddd328498c0ac4a88f3b40d
+      internalID: -931911815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9aa6e160a8c8d439c98d2342478b15
+      internalID: -574740828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca126e57f9e74438d76bfe5c0d223d
+      internalID: -939112795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902b281dfcadc5c418746672fbe29665
+      internalID: -1485349400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9163387745ce749afc7940cc2ae23b
+      internalID: -1536129533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_24
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb5a0b8087a42b46892db2f2c0bbff6
+      internalID: 826568994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adbb8d86928b274ca360c165e729ae1
+      internalID: 1521795125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a656137c755d8d44fbce79b60c857568
+      internalID: -1994880266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb95fd48dfa545a48b192be7f4adaf53
+      internalID: 1213201332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6803bb787fa1fa44adcbe9bb12bdbcc
+      internalID: -1634106011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a747ee686bf96ad44932be0a7b8d5c1a
+      internalID: -766863849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_30
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444f077664aa9b141badf2549d52e89d
+      internalID: 621813926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_31
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 560
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7f19836e38b84488589c8b6d754acd
+      internalID: 1100358274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a7ae703e8b35f49a423067c2430ee0
+      internalID: 1703660481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9976487d2635d24fb90a867bf9411a4
+      internalID: -677078863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a673d15efa1205d4a986e6cec90cfd2d
+      internalID: 620990923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ba60cb3540d5b4586a4c1574b69368
+      internalID: 2041517520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc3d85b89439164a95463ba329952d9
+      internalID: -2101981315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d002fc3a11b516e4b8d4b9494050d962
+      internalID: -1919770189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c6373ab642568449da296713503ea6
+      internalID: 2088924179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e024a66547241c24d82497d6085f00c8
+      internalID: 578200683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33a95297cc88004fbb02a7617b48d58
+      internalID: 562193006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_41
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5f5073d7dabe04c8b26574c0af1b89
+      internalID: -698376593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_42
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f8f518eb1bace42b9b5add5c86ac8d
+      internalID: -1508158156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5527be9f83b2ba4296e363a619c08e1
+      internalID: 2138514425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_44
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98da6222c5a818d469e682aa026e04d6
+      internalID: -1310007673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_45
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decbafa6af3510a44b5a7dc6fa0ebc58
+      internalID: -1271327832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_46
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3557734ecf53f641ab39885211f1b53
+      internalID: -1527544310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_47
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 525
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9642f084771a84e9926d50aa0a6144
+      internalID: -1046764936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d935006bcfe57a44b5b7de0f41c0675
+      internalID: 892623051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60134d1b337f6e848b515d0d54179087
+      internalID: 1071313960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_50
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade5e28e203850e45b018e9a06fd9eea
+      internalID: -566392639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8a8795447b88e4a8d2dfb81821ada8
+      internalID: -1738135850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d266f3ce3cbdd45b27e04e0e9e9550
+      internalID: 423602017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_53
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c316968bd69014a4c941dff194d8ae99
+      internalID: -1269217292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabd13a4dffcda74b86e085f029efbd7
+      internalID: -130060840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5707a507186a7d41ac9bbe76a3669fc
+      internalID: 78215264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b29ca4ae2af0846b81cc1b231f3f29
+      internalID: -690305650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_57
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f88e8deb5160e4499d5e00607b3bca3
+      internalID: -436898255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_58
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2d2bd0f98bec04d834a9673358adb8
+      internalID: 1247647550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_59
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59563ff42322dc442bf9ed0fde8c3254
+      internalID: -304456164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_60
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b9531ac8dab0b48a5721d6cf6548d9
+      internalID: 380215411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_61
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2652654c3fc2847aef748929eed774
+      internalID: 1784224749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_62
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc5fa60a17f4c440a4555b1b486495c
+      internalID: -1339390884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_63
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 490
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8916f37f103944a43a2fd44a89915f9b
+      internalID: -313956842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec18483ded46748830751b7f45ea71
+      internalID: 1523872620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_65
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca63dee148ee644a91b0c480c93254f
+      internalID: 567077355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46b3ddb18a155743a6d56cbdc8345d3
+      internalID: 1426925858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0504be91584309144b17770206caf969
+      internalID: 1093011841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_68
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469956388e1a3204a8db1641613dba1f
+      internalID: -179547752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_69
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0967f9d063b5fb7488b9ee6554a941f6
+      internalID: -663251413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_70
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41734847bc73f93409a3720771496c4c
+      internalID: 923449312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_71
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81789ffc7e5c3f47a04de99bfd5e83f
+      internalID: -1610579381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390e832af89193045b7c44cc044e7e83
+      internalID: 2020769545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_73
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34082fe516073c2488f2f04f0d8e2513
+      internalID: 435311966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_74
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1bb3cdb82b409468760050784e3e00
+      internalID: 1586251953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_75
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee09d76bcf5f9042874235b62f66fca
+      internalID: -1661830816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_76
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b6d4f4968611b45b074f411bd8913a
+      internalID: -2082178700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_77
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023be88afda8b42418689355df9298eb
+      internalID: 1446723895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_78
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50d586bebaaaea46a45167dbfeafc7a
+      internalID: -742477475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_79
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 455
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9510ed61a3d558f4bbc424bc5ed4497d
+      internalID: -1599708531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb21b6daaca22d4c8299d71960019a0
+      internalID: 1378550789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_81
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc0f101a1d0d8c4991aafaedb423300
+      internalID: -1968371842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_82
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6e11d299ce29f41b33a556ec913391
+      internalID: -655484966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_83
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052724354881ba54abab4f64d57bb4ce
+      internalID: -438105477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_84
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebf0381f39ffd44190580c70a36174e
+      internalID: -1064585609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_85
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076756ab9889392498aba9bc2f4ab214
+      internalID: -1311499762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_86
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb1427f30ae61e49938e3279752f02a
+      internalID: -211987003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_87
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2c097669b2154489e36a9677911359
+      internalID: 21551416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_88
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4228322e4c63e6849a671ac401d0739c
+      internalID: 1131680181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_89
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5037095497cfccd45a765ae8b9f54da4
+      internalID: 1566746562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_90
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df598b1f24ba314db4a81f254c24c24
+      internalID: -768832252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_91
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e7068380b18f445b96a3d95c1dca75
+      internalID: 1839992124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_92
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1795f11403237a24fb31b5f3a99a8c3b
+      internalID: 1233128452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_93
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97104cf04116aa4d9503058b9464d12
+      internalID: 1161380781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_94
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cac2bcd03f46f4e91385eb78f10003
+      internalID: 514544613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_95
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 420
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cc529e773c58d4291ce8637877fb18
+      internalID: -1152649063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a081769cb22d5645a15f6acc6960797
+      internalID: 1882705377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_97
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c8c00d11bd84042b75e59f1a615f3b
+      internalID: 1824513242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_98
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ebb8bc764fb7c4b97004b6097eec81
+      internalID: 987357227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_99
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ad277011a34674a918febdbda7e0d9
+      internalID: 909736707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_100
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9398989d974ae3448a41c6ea4e386c29
+      internalID: -776163312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_101
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568c9c25504bec7469bae133b792fd4d
+      internalID: 1991951521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_102
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a024c9355610b48bebd70d1d5e22ba
+      internalID: -70666177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_103
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c9fa5161eeb274bb63abc7384b70cf
+      internalID: 930855726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_104
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aab49b4cfc2d5e45b331e9808487e20
+      internalID: 1812169666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_105
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e51de9e8f7b404381842c56304f3b7
+      internalID: 90718802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_106
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29144356874f60f44a2fb4ab6f318f47
+      internalID: -2022853888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_107
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c36507321f4a164a9cd69759f718e1f
+      internalID: -1752726607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_108
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821f2415ae0eb174c9428f336740fb8c
+      internalID: 1198271960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_109
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c99b1b3befa8e044803ea3e4af107a3
+      internalID: -1953338869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_110
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502a0450956e18b41987dd5ef4f9b003
+      internalID: 527882970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_111
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 385
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb06ed7dc6790ae4eb51ce8208e35b1c
+      internalID: 1793051573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8300df74d4be77b45bcde2c6adea1d23
+      internalID: -28212082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_113
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d58f6399d833f541be2fa63c5bf3aca
+      internalID: -1270317401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_114
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7436da1559bed764ea014656db0505a1
+      internalID: -732961531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_115
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a8b0dc246d8534dbbaeb37e9973c5a
+      internalID: -1290359354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_116
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1730e5c3ec685f94dbca181b16c2f2e0
+      internalID: -12397565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_117
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172115fff2f3f904aa551472e67ff284
+      internalID: -486246354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_118
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ef023586cc1144eb5a20d72d988fd7
+      internalID: -1282971840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_119
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3961de612d49efb428e68f01972ce3e4
+      internalID: 565245566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_120
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4852935ac539f044aaaf0977bdd00b81
+      internalID: -940069087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_121
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8851c3370b042e544ba1009c3bdcbc0b
+      internalID: 343621871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_122
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce099325f710d54d9d09a0ca0d22005
+      internalID: -1223557969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_123
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99709354610484c4a837ba167717b0ff
+      internalID: -1977529106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_124
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3615fc4163062f41a27417dba7b30dd
+      internalID: 1435363033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_125
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce8f43f741837244b2876f38b9acdd4
+      internalID: 1953442331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_126
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d213304436a7dbb4ab3c7a1d5aad5c53
+      internalID: 231230365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_127
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 350
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7f0c4053a8efa4da80b67d836c6ef8
+      internalID: -1405712559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b50cc275ccf6641ab70c0db332f194
+      internalID: 856026888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_129
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25baeaf5392dac4789d5ee830f2ea2a
+      internalID: -1910252724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_130
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8490f9c3e9fa24990bc1e92ac2a33c
+      internalID: -579376331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_131
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da3355143ca17c42b0a72512c6fd9e8
+      internalID: -1957458458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_132
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623847d61e56eb04e9b4653930114d9d
+      internalID: 1810253754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_133
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6104c1a259b1c41b5e253f40c1250d
+      internalID: 1470060543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_134
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436bc865e4e41a949bf4d405d4116a9c
+      internalID: -1948631214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_135
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506ef34056747af4082cd9882d98014d
+      internalID: -1025981674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_136
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e473b2b7295fa4a8f23c048c831b21
+      internalID: 1723018445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_137
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a240f77179f834ebcb14274fbac476
+      internalID: 1400253000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_138
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ab56d2dedefdd409a6cd7cb9f1ba3c
+      internalID: -119906161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_139
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195952cda7f5b7b4fa4033e9305f785b
+      internalID: -873178297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_140
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3bbb4dd558fd24a956655747572b8d
+      internalID: -2055847192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_141
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20e669d33c51e04d974fb9e26ae55f6
+      internalID: -1876875358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_142
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5234c3651d99f4fb547b8866ac41d8
+      internalID: 678246250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_143
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 315
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb67e9ebaae378049906960a12412146
+      internalID: 770982413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa19ab74e64d6149b7f18e98d9cf122
+      internalID: 1712382007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_145
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01023c5ff0593054f9b4930d7d796acf
+      internalID: -577708789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_146
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5342f295822c842a6db8c22ab9975a
+      internalID: -1969775438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_147
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd5ed8f27ca2ac4787a4bffb40fe78b
+      internalID: -1832522222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_148
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0e9450d9a1c749a09f8d9f19d557e
+      internalID: 83572015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_149
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b0bfed42f2cb04286adc4cf5ce1fab
+      internalID: 880231594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_150
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720b5e731c6b39643b390add56b8f220
+      internalID: -980675800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_151
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e195edb5a2f1e14989e33ef6ebdcbcd
+      internalID: -356005249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_152
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1e45a440ddd8843b6c3cba72d0c5c4
+      internalID: -1257508527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_153
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0a5b3b6f4ec8040a684d94e330ba37
+      internalID: -120567105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_154
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daf45ed7da5f5548a954a8acc7da0a4
+      internalID: 481155419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_155
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0adb982b5207624098087b4595af393
+      internalID: -1326344931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_156
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ca5d76ac691494c8858d5a2a726c90
+      internalID: -941651691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_157
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a444c143fe07240a467626252c7aa1
+      internalID: 159803970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_158
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd7c914a0cfbec48a64fba881d2dbdd
+      internalID: -168167798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_159
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 280
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea2690901b29f6489ff234693f590a1
+      internalID: -925393363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75b39ebdac57dc488f816e586b6325e
+      internalID: 1255933879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_161
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f6b392bf8ee9743a8f4a9af0315492
+      internalID: -402020513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_162
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baac2eb101ca364bad9a86bc712bad8
+      internalID: 1860148834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_163
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93162746763faa41b619a9f5fd4ba43
+      internalID: -484888923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_164
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669c02a1729277b49b124b20565e23fc
+      internalID: -1920983367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_165
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce40f997b444ffc4d9b7ef77b675c918
+      internalID: 1781659445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_166
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ec568c9fe484546a14ada73cf838f4
+      internalID: 994803646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_167
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f2bbd26dd10f942b6cb079543284f5
+      internalID: -1512439669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_168
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f3f7c6dd45e9f49954c4223de5d1a3
+      internalID: 671080078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_169
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4988abf0ccf94a540b121cfa2116c4a5
+      internalID: 875174954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_170
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781546a7684bd644d8805c4d8809603e
+      internalID: -1254449108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_171
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624e8597aaaa8e94785fba700585116c
+      internalID: -1980090233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_172
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f552e1cce1f5de2479ff1f4817f61a17
+      internalID: 415555991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_173
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669846cba33d184891ee6a76b47ad76
+      internalID: -486858113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_174
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39ea2aae72920e4aafc71932447a73f
+      internalID: 1498413215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_175
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 245
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88ba735294fe0a428ca029a573227c1
+      internalID: 1344075601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feda8cc045f94d439a0cef131a71fd6
+      internalID: 560752465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_177
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ca761bd10755a4f8b03733ae4f977c
+      internalID: -1179221091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_178
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435a63b7f975dbf4e9af58bc8ad521cd
+      internalID: -2141065659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_179
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b1caed720cc424f8d7aa697b922f52
+      internalID: -1654984236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_180
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3e2b47abc22d043804cfbf04a966ef
+      internalID: -1068400799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_181
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501f09478063a6442979b8c6f03c4358
+      internalID: -855205516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_182
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acafe019a7d03243a3ad534731a4a42
+      internalID: -454473466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_183
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752926a8de4b97d45959f48c313339f6
+      internalID: -1078384500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_184
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6510584dd29d56c49920d89f8ffcb336
+      internalID: -585389682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_185
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d2d93026f4adf4480e4fdab41cb083
+      internalID: -1276797059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_186
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2be7beedc6011841930e390ae493f22
+      internalID: -1985455247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_187
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8c0a073ff4ed741ab4d3d290fdef92
+      internalID: 1638770843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_188
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0fedeeab9d0f24483eb1ea8d91e0cc
+      internalID: 1392623423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_189
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc27d2ca5a69dc049b76db1d4ebccea7
+      internalID: 722233608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_190
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e8a9277a2d61f438f59766345450b9
+      internalID: 194934394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_191
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f6550e6f7adc5479ebf588928668b3
+      internalID: 408482246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72905db1f7d14db4b8cc97bed57fb5ac
+      internalID: 807709038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_193
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4f95ffac366a245bca1472fadcba0f
+      internalID: -1971918334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_194
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6e441f8fecc7543afe8b511e785932
+      internalID: 771654661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_195
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fec5ab9952e65438b3f4132e433fcb
+      internalID: 338992594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_196
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6faef337252db4580eec32813c3cbd
+      internalID: 424112667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_197
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d940dc41191ed4e4ea92ca23e783443f
+      internalID: -1892126128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_198
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b91e7da6c30604fbd37742b4c8c772
+      internalID: -2070791150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_199
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e69abe3d0e23d94ea27a03cdcbbc58e
+      internalID: -1704312926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_200
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78928b564d05a40428733998f081495d
+      internalID: 830486722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_201
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8c5d6a2c4fe9341b39f7c4e57cd905
+      internalID: -1178831573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_202
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91974005f706b6347a4126deda0d6651
+      internalID: -1176716804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_203
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f211784bd9794f049b165967736295dd
+      internalID: 1608692708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_204
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307af000d949e314d99bfb3651f59ddb
+      internalID: -212781514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_205
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4e3c6ac6cd5a4448cbd2e5e9ef8c32
+      internalID: -1057749127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_206
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a654a21df4b23b44a5232c9369495bf
+      internalID: -136742015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_207
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 175
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb524898e88818f4fb534d1941972d29
+      internalID: -547543686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55394dc4380849642acf2c0273577dc9
+      internalID: -1648374049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_209
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9854d16812c3d2489d2d617e70aa6ab
+      internalID: -349449620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_210
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f460ba7a2203d14d9fc711f1929800e
+      internalID: 1325684350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_211
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3065a7ad6c5aefe4792e84198b5bf3b1
+      internalID: 1463619338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_212
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1caf926b6e16874bbcd7d0dec18e211
+      internalID: 295299630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_213
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9aedd4d4ee8b140a8f417503c9f251
+      internalID: -683936426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_214
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16be103422598041bf7b4748925f099
+      internalID: 1475396526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_215
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9fb9afb10237947bb96821a3e28c5c
+      internalID: -1887481150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_216
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64372f568ff43a7438c6238368d51338
+      internalID: -2120467873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_217
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e2bdc9f103f364dacd0c1fee56b5e3
+      internalID: 1857616652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_218
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699fad0c9915bdd46864c527a8ad9bf8
+      internalID: 919935667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_219
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dab498b0c069444a1c2f10b441cec5
+      internalID: 822086231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_220
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cd7e4e12869d94eac5bcaf28edb9b5
+      internalID: -1351127034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_221
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8f563ed6c4f3f4ea00ff2702deaad0
+      internalID: -380145650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_222
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5d3c506b4a3a24e964511d1b654d62
+      internalID: -137462243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_223
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 140
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7e144345498a94b95c7a6f0feb22d7
+      internalID: -1423207836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298e74a88f4d097438569958e34032ca
+      internalID: -1398655381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_225
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b26583645a9d547b11f30d843f40b2
+      internalID: 1902752822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_226
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca9d0fc4e551784194b4fbf50cea74e
+      internalID: 682671108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_227
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0319e9925b0f74a81550e40d4253da
+      internalID: 1990705235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_228
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cfc43ee04040f4d8215e737a2dda9d
+      internalID: -14766831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_229
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfafe85ab8a8007488c51fcc84ba6195
+      internalID: 1269046463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_230
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203cd22ae032df840af65e6c6279b837
+      internalID: -1393431950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_231
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc3272175083fa4cba4a06d23195bbd
+      internalID: -1866986490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_232
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d23cc6966f61c941b9270e69495928b
+      internalID: -227493440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_233
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b36546d9d276b349be5369b987535f3
+      internalID: 1838622270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_234
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44305493df390442b09cb24fbb4dbc2
+      internalID: 1750144633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_235
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e286099cf8a5d0b42b23b021c1021606
+      internalID: 20016215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_236
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff45d16715817540b47106e94c732f2
+      internalID: 1391879776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_237
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72e843a18804514189b91490bc115ad
+      internalID: -175453365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_238
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbccc3a6d0425e419941ddd438bb89b
+      internalID: -177634917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_239
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 105
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe0afd20a183644c9e2ef48b15ab409
+      internalID: 1494633189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4abe562b76c1d24c934371ab87cf8aa
+      internalID: 88595758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_241
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c659c40a59b12c40a8f63feee67aad6
+      internalID: -466303092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_242
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd59cc575344c634281aef5a8d968891
+      internalID: 1052201667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_243
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd30c069f791b54291dd5f8486336d1
+      internalID: -98532795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_244
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ac1a4e1c3a4ad4085e404182eeb4d2
+      internalID: 1138089931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_245
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6193ca0591efa24ebed03004afa8f08
+      internalID: -2093249183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_246
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7240a24b5b11ebe45800837bdb877f3e
+      internalID: 465718378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_247
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562d1015bf357f94680b142b5acda442
+      internalID: 929302433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_248
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982068f1c8fd4ef45a027306a64a2292
+      internalID: -1712603670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_249
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f54bf07fa7e03741ba980608e304e6c
+      internalID: 1859951613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_250
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c679a77c273f48c489493464b921c164
+      internalID: -1312278579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_251
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7865b7238505e584c9155c645a55ec63
+      internalID: 1793170650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_252
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bdf782fdbc5bb4abc216e37b86a409
+      internalID: -224884259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_253
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7456af626b921b459220c7d63c35403
+      internalID: -1805649327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_254
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9984c5d3a5a364c9fced1acc814aef
+      internalID: -1690497993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_255
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 70
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b8e799eb6921a489d1675a61671b21
+      internalID: 444553759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b46b295911d0b4896d93d38415aca8
+      internalID: -196565781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_257
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc95b506dd9a8f64c886660f0ff3affe
+      internalID: -1591779331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_258
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10beeb999ad490748bcbc053c12a1d84
+      internalID: -1183547040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_259
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 35
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d3f15ce41996748a9920f74aa60a8d
+      internalID: 1208448244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_260
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 35
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796516105036a7c4bba48c2331d9a632
+      internalID: 1685939866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_261
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 35
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e09fc35ca087ed4faf2ff1cee5aabf7
+      internalID: -1071715680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_262
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 35
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8bb6bcf1f43064e9575ad3c1a0b688
+      internalID: 2001042379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_263
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 35
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22b14265adeb14087af1ea725cec4a
+      internalID: 2107234766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_264
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 35
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79655a3c999074d4da3bfa31e28eda18
+      internalID: -1567636267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_265
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882b60ad9be9cae42afd59a87086de06
+      internalID: 413966772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_266
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea338e31311ceb4a9f19f38a4333b48
+      internalID: 344615545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_267
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0bd710b6c864a40b7552b56ddc9220
+      internalID: -84070356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_268
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b97304cbe1cb894580dc06d07590d35
+      internalID: 1192321080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_269
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcbe31507e3dd941b799b957e9fc6fa
+      internalID: -487395072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_270
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dff8cace1515948ade7ca4ab38172e
+      internalID: 72367156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_271
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5251fdf921274e94a8ac6aa7bf7b9378
+      internalID: 662151490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_Merged_TilesPixel_Rescaled_272
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7546b22e393c8114bb061a4a94d30c82
+      internalID: -332664178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BG_Merged_TilesPixel_Rescaled_76: -2082178700
+      BG_Merged_TilesPixel_Rescaled_134: -1948631214
+      BG_Merged_TilesPixel_Rescaled_140: -2055847192
+      BG_Merged_TilesPixel_Rescaled_164: -1920983367
+      BG_Merged_TilesPixel_Rescaled_47: -1046764936
+      BG_Merged_TilesPixel_Rescaled_97: 1824513242
+      BG_Merged_TilesPixel_Rescaled_186: -1985455247
+      BG_Merged_TilesPixel_Rescaled_135: -1025981674
+      BG_Merged_TilesPixel_Rescaled_207: -547543686
+      BG_Merged_TilesPixel_Rescaled_84: -1064585609
+      BG_Merged_TilesPixel_Rescaled_23: -1536129533
+      BG_Merged_TilesPixel_Rescaled_111: 1793051573
+      BG_Merged_TilesPixel_Rescaled_163: -484888923
+      BG_Merged_TilesPixel_Rescaled_205: -1057749127
+      BG_Merged_TilesPixel_Rescaled_255: 444553759
+      BG_Merged_TilesPixel_Rescaled_113: -1270317401
+      BG_Merged_TilesPixel_Rescaled_171: -1980090233
+      BG_Merged_TilesPixel_Rescaled_180: -1068400799
+      BG_Merged_TilesPixel_Rescaled_39: 578200683
+      BG_Merged_TilesPixel_Rescaled_234: 1750144633
+      BG_Merged_TilesPixel_Rescaled_258: -1183547040
+      BG_Merged_TilesPixel_Rescaled_260: 1685939866
+      BG_Merged_TilesPixel_Rescaled_85: -1311499762
+      BG_Merged_TilesPixel_Rescaled_29: -766863849
+      BG_Merged_TilesPixel_Rescaled_26: -1994880266
+      BG_Merged_TilesPixel_Rescaled_175: 1344075601
+      BG_Merged_TilesPixel_Rescaled_145: -577708789
+      BG_Merged_TilesPixel_Rescaled_193: -1971918334
+      BG_Merged_TilesPixel_Rescaled_55: 78215264
+      BG_Merged_TilesPixel_Rescaled_233: 1838622270
+      BG_Merged_TilesPixel_Rescaled_48: 892623051
+      BG_Merged_TilesPixel_Rescaled_79: -1599708531
+      BG_Merged_TilesPixel_Rescaled_8: 1064603416
+      BG_Merged_TilesPixel_Rescaled_209: -349449620
+      BG_Merged_TilesPixel_Rescaled_82: -655484966
+      BG_Merged_TilesPixel_Rescaled_71: -1610579381
+      BG_Merged_TilesPixel_Rescaled_147: -1832522222
+      BG_Merged_TilesPixel_Rescaled_13: 1382751554
+      BG_Merged_TilesPixel_Rescaled_166: 994803646
+      BG_Merged_TilesPixel_Rescaled_217: 1857616652
+      BG_Merged_TilesPixel_Rescaled_256: -196565781
+      BG_Merged_TilesPixel_Rescaled_64: 1523872620
+      BG_Merged_TilesPixel_Rescaled_173: -486858113
+      BG_Merged_TilesPixel_Rescaled_138: -119906161
+      BG_Merged_TilesPixel_Rescaled_226: 682671108
+      BG_Merged_TilesPixel_Rescaled_60: 380215411
+      BG_Merged_TilesPixel_Rescaled_263: 2107234766
+      BG_Merged_TilesPixel_Rescaled_154: 481155419
+      BG_Merged_TilesPixel_Rescaled_204: -212781514
+      BG_Merged_TilesPixel_Rescaled_18: -316023955
+      BG_Merged_TilesPixel_Rescaled_250: -1312278579
+      BG_Merged_TilesPixel_Rescaled_268: 1192321080
+      BG_Merged_TilesPixel_Rescaled_12: -1799868128
+      BG_Merged_TilesPixel_Rescaled_32: 1703660481
+      BG_Merged_TilesPixel_Rescaled_112: -28212082
+      BG_Merged_TilesPixel_Rescaled_67: 1093011841
+      BG_Merged_TilesPixel_Rescaled_177: -1179221091
+      BG_Merged_TilesPixel_Rescaled_62: -1339390884
+      BG_Merged_TilesPixel_Rescaled_109: -1953338869
+      BG_Merged_TilesPixel_Rescaled_228: -14766831
+      BG_Merged_TilesPixel_Rescaled_184: -585389682
+      BG_Merged_TilesPixel_Rescaled_16: 211370988
+      BG_Merged_TilesPixel_Rescaled_129: -1910252724
+      BG_Merged_TilesPixel_Rescaled_252: -224884259
+      BG_Merged_TilesPixel_Rescaled_195: 338992594
+      BG_Merged_TilesPixel_Rescaled_240: 88595758
+      BG_Merged_TilesPixel_Rescaled_3: -99411763
+      BG_Merged_TilesPixel_Rescaled_170: -1254449108
+      BG_Merged_TilesPixel_Rescaled_91: 1839992124
+      BG_Merged_TilesPixel_Rescaled_150: -980675800
+      BG_Merged_TilesPixel_Rescaled_241: -466303092
+      BG_Merged_TilesPixel_Rescaled_45: -1271327832
+      BG_Merged_TilesPixel_Rescaled_245: -2093249183
+      BG_Merged_TilesPixel_Rescaled_271: 662151490
+      BG_Merged_TilesPixel_Rescaled_41: -698376593
+      BG_Merged_TilesPixel_Rescaled_119: 565245566
+      BG_Merged_TilesPixel_Rescaled_127: -1405712559
+      BG_Merged_TilesPixel_Rescaled_182: -454473466
+      BG_Merged_TilesPixel_Rescaled_270: 72367156
+      BG_Merged_TilesPixel_Rescaled_40: 562193006
+      BG_Merged_TilesPixel_Rescaled_10: -723691939
+      BG_Merged_TilesPixel_Rescaled_30: 621813926
+      BG_Merged_TilesPixel_Rescaled_6: -1016859492
+      BG_Merged_TilesPixel_Rescaled_152: -1257508527
+      BG_Merged_TilesPixel_Rescaled_227: 1990705235
+      BG_Merged_TilesPixel_Rescaled_42: -1508158156
+      BG_Merged_TilesPixel_Rescaled_220: -1351127034
+      BG_Merged_TilesPixel_Rescaled_7: 115366723
+      BG_Merged_TilesPixel_Rescaled_104: 1812169666
+      BG_Merged_TilesPixel_Rescaled_43: 2138514425
+      BG_Merged_TilesPixel_Rescaled_63: -313956842
+      BG_Merged_TilesPixel_Rescaled_36: -2101981315
+      BG_Merged_TilesPixel_Rescaled_65: 567077355
+      BG_Merged_TilesPixel_Rescaled_130: -579376331
+      BG_Merged_TilesPixel_Rescaled_196: 424112667
+      BG_Merged_TilesPixel_Rescaled_132: 1810253754
+      BG_Merged_TilesPixel_Rescaled_203: 1608692708
+      BG_Merged_TilesPixel_Rescaled_262: 2001042379
+      BG_Merged_TilesPixel_Rescaled_61: 1784224749
+      BG_Merged_TilesPixel_Rescaled_94: 514544613
+      BG_Merged_TilesPixel_Rescaled_15: 813574672
+      BG_Merged_TilesPixel_Rescaled_216: -2120467873
+      BG_Merged_TilesPixel_Rescaled_197: -1892126128
+      BG_Merged_TilesPixel_Rescaled_133: 1470060543
+      BG_Merged_TilesPixel_Rescaled_72: 2020769545
+      BG_Merged_TilesPixel_Rescaled_269: -487395072
+      BG_Merged_TilesPixel_Rescaled_107: -1752726607
+      BG_Merged_TilesPixel_Rescaled_102: -70666177
+      BG_Merged_TilesPixel_Rescaled_59: -304456164
+      BG_Merged_TilesPixel_Rescaled_70: 923449312
+      BG_Merged_TilesPixel_Rescaled_120: -940069087
+      BG_Merged_TilesPixel_Rescaled_188: 1392623423
+      BG_Merged_TilesPixel_Rescaled_21: -939112795
+      BG_Merged_TilesPixel_Rescaled_199: -1704312926
+      BG_Merged_TilesPixel_Rescaled_162: 1860148834
+      BG_Merged_TilesPixel_Rescaled_17: -947934195
+      BG_Merged_TilesPixel_Rescaled_146: -1969775438
+      BG_Merged_TilesPixel_Rescaled_98: 987357227
+      BG_Merged_TilesPixel_Rescaled_221: -380145650
+      BG_Merged_TilesPixel_Rescaled_167: -1512439669
+      BG_Merged_TilesPixel_Rescaled_172: 415555991
+      BG_Merged_TilesPixel_Rescaled_93: 1161380781
+      BG_Merged_TilesPixel_Rescaled_139: -873178297
+      BG_Merged_TilesPixel_Rescaled_235: 20016215
+      BG_Merged_TilesPixel_Rescaled_37: -1919770189
+      BG_Merged_TilesPixel_Rescaled_81: -1968371842
+      BG_Merged_TilesPixel_Rescaled_176: 560752465
+      BG_Merged_TilesPixel_Rescaled_143: 770982413
+      BG_Merged_TilesPixel_Rescaled_78: -742477475
+      BG_Merged_TilesPixel_Rescaled_89: 1566746562
+      BG_Merged_TilesPixel_Rescaled_136: 1723018445
+      BG_Merged_TilesPixel_Rescaled_169: 875174954
+      BG_Merged_TilesPixel_Rescaled_201: -1178831573
+      BG_Merged_TilesPixel_Rescaled_185: -1276797059
+      BG_Merged_TilesPixel_Rescaled_20: -574740828
+      BG_Merged_TilesPixel_Rescaled_128: 856026888
+      BG_Merged_TilesPixel_Rescaled_24: 826568994
+      BG_Merged_TilesPixel_Rescaled_246: 465718378
+      BG_Merged_TilesPixel_Rescaled_265: 413966772
+      BG_Merged_TilesPixel_Rescaled_231: -1866986490
+      BG_Merged_TilesPixel_Rescaled_212: 295299630
+      BG_Merged_TilesPixel_Rescaled_131: -1957458458
+      BG_Merged_TilesPixel_Rescaled_31: 1100358274
+      BG_Merged_TilesPixel_Rescaled_189: 722233608
+      BG_Merged_TilesPixel_Rescaled_90: -768832252
+      BG_Merged_TilesPixel_Rescaled_211: 1463619338
+      BG_Merged_TilesPixel_Rescaled_190: 194934394
+      BG_Merged_TilesPixel_Rescaled_123: -1977529106
+      BG_Merged_TilesPixel_Rescaled_153: -120567105
+      BG_Merged_TilesPixel_Rescaled_159: -925393363
+      BG_Merged_TilesPixel_Rescaled_213: -683936426
+      BG_Merged_TilesPixel_Rescaled_253: -1805649327
+      BG_Merged_TilesPixel_Rescaled_247: 929302433
+      BG_Merged_TilesPixel_Rescaled_87: 21551416
+      BG_Merged_TilesPixel_Rescaled_73: 435311966
+      BG_Merged_TilesPixel_Rescaled_99: 909736707
+      BG_Merged_TilesPixel_Rescaled_257: -1591779331
+      BG_Merged_TilesPixel_Rescaled_243: -98532795
+      BG_Merged_TilesPixel_Rescaled_181: -855205516
+      BG_Merged_TilesPixel_Rescaled_9: 484860380
+      BG_Merged_TilesPixel_Rescaled_19: -931911815
+      BG_Merged_TilesPixel_Rescaled_183: -1078384500
+      BG_Merged_TilesPixel_Rescaled_223: -1423207836
+      BG_Merged_TilesPixel_Rescaled_237: -175453365
+      BG_Merged_TilesPixel_Rescaled_238: -177634917
+      BG_Merged_TilesPixel_Rescaled_126: 231230365
+      BG_Merged_TilesPixel_Rescaled_194: 771654661
+      BG_Merged_TilesPixel_Rescaled_92: 1233128452
+      BG_Merged_TilesPixel_Rescaled_35: 2041517520
+      BG_Merged_TilesPixel_Rescaled_100: -776163312
+      BG_Merged_TilesPixel_Rescaled_249: 1859951613
+      BG_Merged_TilesPixel_Rescaled_266: 344615545
+      BG_Merged_TilesPixel_Rescaled_242: 1052201667
+      BG_Merged_TilesPixel_Rescaled_261: -1071715680
+      BG_Merged_TilesPixel_Rescaled_224: -1398655381
+      BG_Merged_TilesPixel_Rescaled_34: 620990923
+      BG_Merged_TilesPixel_Rescaled_50: -566392639
+      BG_Merged_TilesPixel_Rescaled_86: -211987003
+      BG_Merged_TilesPixel_Rescaled_239: 1494633189
+      BG_Merged_TilesPixel_Rescaled_5: 726211687
+      BG_Merged_TilesPixel_Rescaled_118: -1282971840
+      BG_Merged_TilesPixel_Rescaled_52: 423602017
+      BG_Merged_TilesPixel_Rescaled_222: -137462243
+      BG_Merged_TilesPixel_Rescaled_1: 1055022229
+      BG_Merged_TilesPixel_Rescaled_161: -402020513
+      BG_Merged_TilesPixel_Rescaled_244: 1138089931
+      BG_Merged_TilesPixel_Rescaled_110: 527882970
+      BG_Merged_TilesPixel_Rescaled_158: -168167798
+      BG_Merged_TilesPixel_Rescaled_192: 807709038
+      BG_Merged_TilesPixel_Rescaled_229: 1269046463
+      BG_Merged_TilesPixel_Rescaled_121: 343621871
+      BG_Merged_TilesPixel_Rescaled_272: -332664178
+      BG_Merged_TilesPixel_Rescaled_124: 1435363033
+      BG_Merged_TilesPixel_Rescaled_122: -1223557969
+      BG_Merged_TilesPixel_Rescaled_264: -1567636267
+      BG_Merged_TilesPixel_Rescaled_58: 1247647550
+      BG_Merged_TilesPixel_Rescaled_219: 822086231
+      BG_Merged_TilesPixel_Rescaled_142: 678246250
+      BG_Merged_TilesPixel_Rescaled_117: -486246354
+      BG_Merged_TilesPixel_Rescaled_156: -941651691
+      BG_Merged_TilesPixel_Rescaled_115: -1290359354
+      BG_Merged_TilesPixel_Rescaled_77: 1446723895
+      BG_Merged_TilesPixel_Rescaled_125: 1953442331
+      BG_Merged_TilesPixel_Rescaled_179: -1654984236
+      BG_Merged_TilesPixel_Rescaled_33: -677078863
+      BG_Merged_TilesPixel_Rescaled_4: 788267782
+      BG_Merged_TilesPixel_Rescaled_103: 930855726
+      BG_Merged_TilesPixel_Rescaled_96: 1882705377
+      BG_Merged_TilesPixel_Rescaled_160: 1255933879
+      BG_Merged_TilesPixel_Rescaled_83: -438105477
+      BG_Merged_TilesPixel_Rescaled_225: 1902752822
+      BG_Merged_TilesPixel_Rescaled_210: 1325684350
+      BG_Merged_TilesPixel_Rescaled_25: 1521795125
+      BG_Merged_TilesPixel_Rescaled_11: 1913636942
+      BG_Merged_TilesPixel_Rescaled_191: 408482246
+      BG_Merged_TilesPixel_Rescaled_259: 1208448244
+      BG_Merged_TilesPixel_Rescaled_141: -1876875358
+      BG_Merged_TilesPixel_Rescaled_267: -84070356
+      BG_Merged_TilesPixel_Rescaled_46: -1527544310
+      BG_Merged_TilesPixel_Rescaled_28: -1634106011
+      BG_Merged_TilesPixel_Rescaled_148: 83572015
+      BG_Merged_TilesPixel_Rescaled_80: 1378550789
+      BG_Merged_TilesPixel_Rescaled_202: -1176716804
+      BG_Merged_TilesPixel_Rescaled_2: -514052459
+      BG_Merged_TilesPixel_Rescaled_44: -1310007673
+      BG_Merged_TilesPixel_Rescaled_254: -1690497993
+      BG_Merged_TilesPixel_Rescaled_22: -1485349400
+      BG_Merged_TilesPixel_Rescaled_206: -136742015
+      BG_Merged_TilesPixel_Rescaled_200: 830486722
+      BG_Merged_TilesPixel_Rescaled_230: -1393431950
+      BG_Merged_TilesPixel_Rescaled_251: 1793170650
+      BG_Merged_TilesPixel_Rescaled_106: -2022853888
+      BG_Merged_TilesPixel_Rescaled_218: 919935667
+      BG_Merged_TilesPixel_Rescaled_232: -227493440
+      BG_Merged_TilesPixel_Rescaled_187: 1638770843
+      BG_Merged_TilesPixel_Rescaled_57: -436898255
+      BG_Merged_TilesPixel_Rescaled_49: 1071313960
+      BG_Merged_TilesPixel_Rescaled_108: 1198271960
+      BG_Merged_TilesPixel_Rescaled_114: -732961531
+      BG_Merged_TilesPixel_Rescaled_236: 1391879776
+      BG_Merged_TilesPixel_Rescaled_248: -1712603670
+      BG_Merged_TilesPixel_Rescaled_54: -130060840
+      BG_Merged_TilesPixel_Rescaled_215: -1887481150
+      BG_Merged_TilesPixel_Rescaled_0: -1690978787
+      BG_Merged_TilesPixel_Rescaled_214: 1475396526
+      BG_Merged_TilesPixel_Rescaled_116: -12397565
+      BG_Merged_TilesPixel_Rescaled_157: 159803970
+      BG_Merged_TilesPixel_Rescaled_101: 1991951521
+      BG_Merged_TilesPixel_Rescaled_168: 671080078
+      BG_Merged_TilesPixel_Rescaled_53: -1269217292
+      BG_Merged_TilesPixel_Rescaled_88: 1131680181
+      BG_Merged_TilesPixel_Rescaled_174: 1498413215
+      BG_Merged_TilesPixel_Rescaled_144: 1712382007
+      BG_Merged_TilesPixel_Rescaled_66: 1426925858
+      BG_Merged_TilesPixel_Rescaled_165: 1781659445
+      BG_Merged_TilesPixel_Rescaled_155: -1326344931
+      BG_Merged_TilesPixel_Rescaled_74: 1586251953
+      BG_Merged_TilesPixel_Rescaled_178: -2141065659
+      BG_Merged_TilesPixel_Rescaled_137: 1400253000
+      BG_Merged_TilesPixel_Rescaled_68: -179547752
+      BG_Merged_TilesPixel_Rescaled_208: -1648374049
+      BG_Merged_TilesPixel_Rescaled_149: 880231594
+      BG_Merged_TilesPixel_Rescaled_95: -1152649063
+      BG_Merged_TilesPixel_Rescaled_69: -663251413
+      BG_Merged_TilesPixel_Rescaled_14: 1804566713
+      BG_Merged_TilesPixel_Rescaled_27: 1213201332
+      BG_Merged_TilesPixel_Rescaled_38: 2088924179
+      BG_Merged_TilesPixel_Rescaled_51: -1738135850
+      BG_Merged_TilesPixel_Rescaled_56: -690305650
+      BG_Merged_TilesPixel_Rescaled_151: -356005249
+      BG_Merged_TilesPixel_Rescaled_198: -2070791150
+      BG_Merged_TilesPixel_Rescaled_75: -1661830816
+      BG_Merged_TilesPixel_Rescaled_105: 90718802
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

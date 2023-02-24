@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - MovingPlatform
+  - Geist
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - AllowGeistTerrain
+  - Enemy
+  - BlockGeistTerrain
+  - Geist
+  - MovingPlatformBlockGeist
+  - MovingPlatformAllowGeist
+  - 'Forground '
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1227075001
+    locked: 0
+  - name: 05Midground
+    uniqueID: 1786800291
+    locked: 0
+  - name: 04Midground
+    uniqueID: 408896299
+    locked: 0
+  - name: 03Midground
+    uniqueID: 2578491503
+    locked: 0
+  - name: 02Midground
+    uniqueID: 1617835525
+    locked: 0
+  - name: 01Midground
+    uniqueID: 2695279709
+    locked: 0
+  - name: Checkpoint
+    uniqueID: 3913889921
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: EnemyEye
+    uniqueID: 2068342537
+    locked: 0
+  - name: GhostTilesGlow
+    uniqueID: 3793168073
+    locked: 0
+  - name: Distort
+    uniqueID: 2196558645
+    locked: 0
+  - name: Geist
+    uniqueID: 3727877759
+    locked: 0
+  - name: Bullet
+    uniqueID: 3209623353
+    locked: 0
+  - name: 03Forground
+    uniqueID: 3749215691
+    locked: 0
+  - name: 02Forground
+    uniqueID: 4231858519
+    locked: 0
+  - name: 01Foreground
+    uniqueID: 3371362233
+    locked: 0
